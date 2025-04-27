@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-Here's a comprehensive README.md for your ZREAL HASH tool:
 
 ```markdown
 # ZREAL HASH - Advanced Archive Hash Extractor
