@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Here's a comprehensive README.md for your ZREAL HASH tool:
 
 ```markdown
@@ -133,3 +134,6 @@ You should:
 4. Consider adding a "Security Note" section if needed for responsible disclosure
 
 Would you like me to add any additional sections or modify any part of this documentation?
+=======
+# zreal-hash
+>>>>>>> cfc2e298685504249e7ce4cab7f3d0c580afdaa6
